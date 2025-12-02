@@ -17,12 +17,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Scrum Master: facilitates agile ceremonies, removes impediments, coaches on process.
-- Developers: implement features, collaborate on design and testability.
+- Developer: implements features, collaborates on design and testability.
 - Business Analyst: elicits requirements, bridges business and technical teams.
 - UX Designer: designs user experiences and validates usability.
 - Technical Writer: creates and maintains documentation.
 - QA Lead: oversees test strategy and quality assurance.
-- Stakeholders: provide inputs and approvals.
+- Stakeholder: provides inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
