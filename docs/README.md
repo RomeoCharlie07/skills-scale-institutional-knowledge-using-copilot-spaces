@@ -18,8 +18,12 @@ Communication follows a structured cadence—weekly syncs between PM and Product
 |------|---------------------|
 | **Project Manager (PM)** | Coordinates delivery, manages schedules, risks, and communications; facilitates meetings and ensures documentation |
 | **Product Manager (PdM)** | Defines outcomes and success metrics, prioritizes the backlog, validates solutions through user research |
+| **Scrum Master** | Facilitates agile ceremonies, removes impediments, coaches on process improvements |
 | **Developers** | Design, build, test, and deliver software; participate in code reviews and help identify technical risks |
-| **QA/Testing** | Validate quality, ensure acceptance criteria are met, and maintain test coverage |
+| **Business Analyst** | Elicits business needs, documents requirements, ensures alignment between stakeholders and technical teams |
+| **UX Designer** | Designs user experiences, wireframes, and prototypes to ensure usability and customer value |
+| **Technical Writer** | Creates and maintains documentation for internal and external users |
+| **QA Lead** | Oversees test strategy, defines acceptance criteria validation, coordinates testing activities |
 | **Stakeholders** | Provide inputs, approvals, and business context |
 
 ## Key Workflows
@@ -104,6 +108,8 @@ For in-depth guidance on specific topics, see:
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) — Learning and improvement
 - [Risk Management & Communication](./octoacme-risks-and-communication.md) — Risk tracking and stakeholder updates
 - [Roles & Personas](./octoacme-roles-and-personas.md) — Detailed role descriptions
+- [Role Handoff Checklist](./octoacme-role-handoff-checklist.md) — Managing role transitions and knowledge transfer
+- [Team Member Onboarding](./octoacme-onboarding-checklist.md) — Onboarding new team members
 
 ---
 

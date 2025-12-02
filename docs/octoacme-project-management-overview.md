@@ -16,8 +16,12 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Scrum Master: facilitates agile ceremonies, removes impediments, coaches on process.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Business Analyst: elicits requirements, bridges business and technical teams.
+- UX Designer: designs user experiences and validates usability.
+- Technical Writer: creates and maintains documentation.
+- QA Lead: oversees test strategy and quality assurance.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
